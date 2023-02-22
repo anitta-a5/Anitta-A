@@ -1,0 +1,56 @@
+
+.some-class,.pre-container
+ {
+    position:relative;  
+    width:350px;
+    height:500px;
+    background:#fff;
+    border-radius: 20px;
+  
+    
+  }
+      
+      label, input {
+                    
+            margin: 0 0 10px;
+            color: rgb(71, 67, 67);
+            font-size: 12px;
+            font-weight: semibold;
+            line-height: 1;
+            text-transform: uppercase;
+            letter-spacing: .2em;
+      }
+      
+      label {
+        margin-bottom: 4px;
+      }
+           
+
+.button,.muted-button,
+  a.muted-button {
+    background: transparent;
+    border: 1px solid #cdcdcd;
+    color: #f4f4f8;
+    background: #0366ee;
+    align-content: center;
+  }
+ .form-header{
+  padding: 4px 0;
+      color: #0366ee;
+      font-size: 24px;
+      font-weight: bold;
+      text-transform: uppercase;
+ }
+
+ .form-input{
+    margin-top:10px;
+    padding-bottom:20px;
+    width:200px;
+    font-size:11px;
+    border: 0;
+    outline: 0;
+    border-bottom:1px solid special-color;
+    background:transparent;
+    align-content: center;
+  }
+
